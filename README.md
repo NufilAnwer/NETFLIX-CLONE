@@ -25,4 +25,36 @@ A responsive front-end clone of the Netflix homepage built using **HTML** and **
 ---
 
 ## 🧩 Project Structure
+/netflix-clone
+│
+├── index.html
+├── style.css
+├── images/
+│ └── background.jpg
+└── README.md
+
+yaml
+Copy
+Edit
+
+---
+
+## 📦 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/netflix-clone.git
+Navigate to the project folder:
+
+bash
+Copy
+Edit
+cd netflix-clone
+Open index.html in your browser.
+
+📃 License
+This project is licensed under the MIT License.
+
+🙌 Acknowledgements
+Inspired by the official Netflix UI.
 
