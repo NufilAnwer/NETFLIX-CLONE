@@ -2,7 +2,7 @@
 
 A responsive front-end clone of the Netflix homepage built using **HTML** and **CSS**.
 
-![Netflix Clone Screenshot]("C:\Users\Vivobook\OneDrive\Desktop\cor\jj\screenshot.png")
+![Netflix Clone Screenshot](screenshot.png)
 
 ---
 
