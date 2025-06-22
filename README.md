@@ -33,12 +33,6 @@ A responsive front-end clone of the Netflix homepage built using **HTML** and **
 │ └── background.jpg
 └── README.md
 
-yaml
-Copy
-Edit
-
----
-
 ## 📦 How to Use
 
 1. Clone the repository:
